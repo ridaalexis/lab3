@@ -26,13 +26,13 @@
 ---
 
 Решены:
-suzen1
-suzen2
-suzen3
-suzen20
-suzen22
-suzen24
-suzen25
-suen26
-suzen27
+suzen1\
+suzen2\
+suzen3\
+suzen20\
+suzen22\
+suzen24\
+suzen25\
+suzen26\
+suzen27\
 suzen29
